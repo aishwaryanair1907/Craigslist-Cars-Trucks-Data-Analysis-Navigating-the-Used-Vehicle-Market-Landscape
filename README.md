@@ -1,1 +1,3 @@
 # Craigslist-Cars-Trucks-Data-Analysis-Navigating-the-Used-Vehicle-Market-Landscape
+
+Explore the intricacies of the U.S. used car and truck market with our comprehensive project. Uncover valuable insights through meticulous data cleaning, robust variable selection, and insightful visualizations. This GitHub repository serves as a compass for informed decision-making, guiding stakeholders in purchasing, selling, and pricing vehicles with confidence. Dive into the wealth of information, from age and condition to location and cylinder configuration, and embark on a journey through the dynamic currents of the ever-changing used vehicle market
